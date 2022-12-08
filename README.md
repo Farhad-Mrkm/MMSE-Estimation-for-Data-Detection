@@ -4,7 +4,7 @@
  
  How to run:
  
- First part is performing the density evaluation:
+ First part is for performing the density evaluation:
  
  
  
