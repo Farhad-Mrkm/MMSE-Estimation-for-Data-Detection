@@ -1,4 +1,4 @@
-# NeuralMMSE
+# MMSE Estimation for data detection
  source code for "Neural MMSE Estimation for Data detection"
  
  
